@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 C
 Hi master how r 
+=======
+hi FB1 how r u
+>>>>>>> FB1
